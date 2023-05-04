@@ -1,0 +1,8 @@
+<mod displayName="Unlimited Colony" unique="UnlimitedColony" description="Этот мод убирает лимит колоний на планете" installerSystemVersion="1.0.1.0" hasCustomInstaller="true" dllsBuild="2.5.2">
+	<prerequisite>Unlimited Colony.dll</prerequisite>
+	<component unique="mayflower"
+			   displayName="Доп. мод"
+			   game="GalacticAdventures"
+			   defaultChecked="false"
+			   description="Делает инструмент &quot;Колония&quot; бесконечным и быстро перезаряжаемым.">mayflower.package</component>
+</mod>
